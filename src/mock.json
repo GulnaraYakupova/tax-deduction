@@ -1,0 +1,11 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Ivan Ivanov"
+  },
+  "debt": 2000000,
+  "paymentScedule": [
+  ],
+  "earlyPayments": [
+  ]
+}
