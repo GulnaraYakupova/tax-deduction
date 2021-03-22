@@ -1,9 +1,0 @@
-@font-face {
-  font-family: 'LabGrotesque';
-  src: local('Lab Grotesque Medium'), local('LabGrotesque-Medium'),
-  url('fonts/') format('woff2'),
-  url('/static/fonts/AvenirNextCyr-Medium.woff') format('woff');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
